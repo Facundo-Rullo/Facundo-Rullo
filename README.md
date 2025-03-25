@@ -57,7 +57,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwinds" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Axios" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite-JS" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="React MUI" width="40px" height="40px">
