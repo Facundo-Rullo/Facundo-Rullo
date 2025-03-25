@@ -10,7 +10,7 @@
   </p>
 </div>
 <div id="redes" align="center">
-   <a href="https://facuur001.github.io/BioLink.github.io/">
+   <a href="#"> <!-- https://facuur001.github.io/BioLink.github.io/ -->
     <img
       src="https://img.shields.io/badge/%F0%9F%91%89-BioLinks-violet"
       alt="Bio-Links"
@@ -55,6 +55,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwinds" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Axios" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite-JS" width="40px" height="40px">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="React MUI" width="40px" height="40px">
     </div>
     <div>
         <h3>- Lenguajes de Programación</h3>
@@ -66,46 +72,12 @@
         <img src="https://avatars.githubusercontent.com/u/16494738?s=200&v=4" alt="Python" width="40px" height="40px">
     </div>
     <div>
-        <h3>- Framework y Librerías</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwinds" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" alt="Axios" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="Vite-JS" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="React MUI" width="40px" height="40px">
-    </div>
-    <div>
         <h3>- Herramientas</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40px" height="40px">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSC" width="40px" height="40px">
-    </div>
-    <div>
-        <h3>- Software</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Linux-Ubuntu" width="40px" height="40px">
-    </div>
-    <div>
-        <h3>- Sistemas de Diseño</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" alt="Skecht" width="40px" height="40px">
-    </div>
-    <div>
-        <h3>- Trabajo en Equipo</h3>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40px" height="40px">  
         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="Notion" width="40px" height="40px">
-    </div>
-    <div>
-        <h3>- Gestor de Paquetes</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40px" height="40px">
-    </div>
-    <div>
-        <h3>- Sistemas de Hosting</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40px" height="40px">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40px" height="40px">
-        <img src="https://scontent.fcor2-2.fna.fbcdn.net/v/t39.30808-6/242217483_4038306829614858_6127829889821043491_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=81yzuv7YGhgAb4xJMb7&_nc_ht=scontent.fcor2-2.fna&oh=00_AfCIFrnGTarzIAyN1LCF3fYrF9Fr_sfS7bJmDLDNNDv4-w&oe=6618D3F1" alt="Hostinguer" width="40px" height="40px">
-    </div>
-    <div>
-        <h3>- Servicios de Email</h3>
-        <img src="https://media.dev.to/cdn-cgi/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F24%2F5c22a580-ac66-4867-88f5-854abe62d947.jpg" alt="Sparkpost-Developers" width="40px" height="40px">
     </div>
 </div>
 <hr/>
